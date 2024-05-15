@@ -15,6 +15,8 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 | Dia  | Descrição                                                                                        |
 | :--- | :----------------------------------------------------------------------------------------------- |
 | `01` | `**Aula de estruturas de repetição** Escrita de timer em java com uso de estrutuas de repetição` |
+| `02` | `**Desenvolvimento** Aplicação de conversão de moedas escrita em React com uso de APIs` |
+
 
 ##
 
