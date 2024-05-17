@@ -22,6 +22,7 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 ## ✅  Repositórios de projetos durante este desafio:
 
 [DIA 2 - CONVERSOR DE MOEDAS](https://github.com/lucaspatraodev/qrcode-generator)
+
 [DIA 4 - GERADOR DE QRCODES](https://github.com/lucaspatraodev/qrcode-generator)
 
 
