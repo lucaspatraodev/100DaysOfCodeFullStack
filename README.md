@@ -17,9 +17,13 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 | `01` | `**Aula de estruturas de repetição** Escrita de timer em java com uso de estrutuas de repetição.` |
 | `02` | `**Desenvolvimento** Aplicação de conversão de moedas escrita em React com uso de APIs.` |
 | `03` | `**Aula de programação orientada a objetos e matemática** Resolução de exercício dos triângulos (fórmula de Heron).` |
+| `04` | `**Desenvolvimento** Aplicação de geração de QRCodes em React usando libs para geração e animação` |
 
+## ✅  Repositórios de projetos durante este desafio:
 
-##
+[DIA 2 - CONVERSOR DE MOEDAS](https://github.com/lucaspatraodev/qrcode-generator)
+[DIA 4 - GERADOR DE QRCODES](https://github.com/lucaspatraodev/qrcode-generator)
+
 
 ## 💻 Quer participar do desafio também?
 
