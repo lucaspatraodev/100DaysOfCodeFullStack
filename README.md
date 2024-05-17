@@ -1,4 +1,4 @@
-<h1 align="center">💻 Bem vindo ao meu repositório #100DaysOfCoding!</h1>
+<h1 align="center">💻 Bem vindo ao meu repositório! #100DaysOfCoding!</h1>
 
 Olá! Sou o Lucas, um desenvolvedor full stack!
 
