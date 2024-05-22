@@ -19,6 +19,7 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 | `03` | `**Aula de programação orientada a objetos e matemática** Resolução de exercício dos triângulos (fórmula de Heron).` |
 | `04` | `**Desenvolvimento** Aplicação de geração de QRCodes em React usando libs para geração e animação` |
 | `05` | `**Desenvolvimento** Aplicação de calculadora de IMC em Java` |
+| `06` | `**Desenvolvimento** Aplicação de cadastro de funcionário e método para aumento salarial do mesmo` |
 
 ## ✅  Repositórios de projetos durante este desafio:
 
