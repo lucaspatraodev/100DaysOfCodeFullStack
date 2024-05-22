@@ -1,3 +1,4 @@
+package Projects.day_5;
 import java.util.Scanner;
 
 public class imcCalculator {
