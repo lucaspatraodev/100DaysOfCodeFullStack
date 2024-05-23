@@ -20,6 +20,7 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 | `04` | `**Desenvolvimento** Aplicação de geração de QRCodes em React usando libs para geração e animação` |
 | `05` | `**Desenvolvimento** Aplicação de calculadora de IMC em Java` |
 | `06` | `**Desenvolvimento** Aplicação de cadastro de funcionário e método para aumento salarial do mesmo` |
+| `07` | `**Desenvolvimento** Aplicação de cálculo e aprovação de médias escolares` |
 
 ## ✅  Repositórios de projetos durante este desafio:
 
