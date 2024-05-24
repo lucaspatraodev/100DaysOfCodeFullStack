@@ -21,6 +21,7 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 | `05` | `**Desenvolvimento** Aplicação de calculadora de IMC em Java` |
 | `06` | `**Desenvolvimento** Aplicação de cadastro de funcionário e método para aumento salarial do mesmo` |
 | `07` | `**Desenvolvimento** Aplicação de cálculo e aprovação de médias escolares` |
+| `08` | `**Desenvolvimento - Projeto React - CEP Finder** Aplicação de buscador de CEPs ou endereços (Parte 1)` |
 
 ## ✅  Repositórios de projetos durante este desafio:
 
@@ -28,6 +29,7 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 
 [DIA 4 - GERADOR DE QRCODES](https://github.com/lucaspatraodev/qrcode-generator)
 
+[DIA 8,9 e 10 - BUSCADOR DE ENDEREÇOS E CEPS (CEP FINDER)](https://github.com/lucaspatraodev/cep-finder)
 
 ## 💻 Quer participar do desafio também?
 
