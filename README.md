@@ -14,14 +14,14 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 
 | Dia  | Descrição                                                                                        |
 | :--- | :----------------------------------------------------------------------------------------------- |
-| `01` | `**Aula de estruturas de repetição** Escrita de timer em java com uso de estrutuas de repetição.` |
-| `02` | `**Desenvolvimento** Aplicação de conversão de moedas escrita em React com uso de APIs.` |
-| `03` | `**Aula de programação orientada a objetos e matemática** Resolução de exercício dos triângulos (fórmula de Heron).` |
-| `04` | `**Desenvolvimento** Aplicação de geração de QRCodes em React usando libs para geração e animação` |
-| `05` | `**Desenvolvimento** Aplicação de calculadora de IMC em Java` |
-| `06` | `**Desenvolvimento** Aplicação de cadastro de funcionário e método para aumento salarial do mesmo` |
-| `07` | `**Desenvolvimento** Aplicação de cálculo e aprovação de médias escolares` |
-| `08` | `**Desenvolvimento - Projeto React - CEP Finder** Aplicação de buscador de CEPs ou endereços (Parte 1)` |
+| `01` | `**Aula de estruturas de repetição - JAVA** Escrita de timer em java com uso de estrutuas de repetição.` |
+| `02` | `**Desenvolvimento - REACT** Aplicação de conversão de moedas escrita em React com uso de APIs.` |
+| `03` | `**Aula de programação orientada a objetos e matemática - JAVA** Resolução de exercício dos triângulos (fórmula de Heron).` |
+| `04` | `**Desenvolvimento - REACT** Aplicação de geração de QRCodes em React usando libs para geração e animação` |
+| `05` | `**Desenvolvimento - JAVA** Aplicação de calculadora de IMC em Java` |
+| `06` | `**Desenvolvimento - JAVA** Aplicação de cadastro de funcionário e método para aumento salarial do mesmo` |
+| `07` | `**Desenvolvimento - JAVA** Aplicação de cálculo e aprovação de médias escolares` |
+| `08` | `**Desenvolvimento - REACT** Aplicação de buscador de CEPs ou endereços (Parte 1)` |
 
 ## ✅  Repositórios de projetos durante este desafio:
 
