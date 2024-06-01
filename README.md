@@ -22,6 +22,11 @@ Para formar meu roteiro de estudos, eu me baseei em recursos como documentaçõe
 | `06` | `**Desenvolvimento - JAVA** Aplicação de cadastro de funcionário e método para aumento salarial do mesmo` |
 | `07` | `**Desenvolvimento - JAVA** Aplicação de cálculo e aprovação de médias escolares` |
 | `08` | `**Desenvolvimento - REACT** Aplicação de buscador de CEPs ou endereços (Parte 1)` |
+| `09` | `**Desenvolvimento - REACT** Aplicação de buscador de CEPs ou endereços (Parte 2)` |
+| `10` | `**Desenvolvimento - REACT** Aplicação de buscador de CEPs ou endereços (Parte 3)` |
+| `11` | `**Desenvolvimento - REACT** Aplicação de buscador de CEPs ou endereços (Revisão de código e melhorias)` |
+| `12` | `**Desenvolvimento - REACT** Aplicação de buscador de CEPs ou endereços (Entrega da aplicação em produção)` |
+| `12` | `**Desenvolvimento - JAVA** Aplicação de conversão entre Celsius e Fahrenheit ` |
 
 ## ✅  Repositórios de projetos durante este desafio:
 
